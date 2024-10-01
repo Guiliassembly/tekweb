@@ -30,9 +30,5 @@
         <input type="text" name="guess" id="guess"/></p>
         <input type="submit"/>
     </form>
-
-    
-
-
 </body>
 </html>
